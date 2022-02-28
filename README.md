@@ -1,4 +1,8 @@
-<h1>Use Case 3 Informatica ETL</h1>
+<h1>SCD 2 Implementation using Informatica</h1>
+
+<h3>Desciption </h3> 
+
+<p>Here, client have given CustomerDetails (Source Table) and CUSTOMER_DETAIL_TRG (Target Table) and client requirement implement SCD 2 on User_Name and Credit_Score. So, i implemnted SCD 2 on User_Name and Credit_Score, so in future if User_Name and Credit_Score changed so its update and also save previous history data.</p>
 
 <h3>Tables Desciption </h3>
 <p><b>Table 1: CustomerDetails (Source Table) </b>- The customer table captures all customer details.</p>
